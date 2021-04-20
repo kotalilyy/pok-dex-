@@ -1,10 +1,12 @@
 # Pokédex 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ![screenshot](/images/screenshot.png)
 
 ## Description 
 
-I created a Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
+A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
 
 ## Table of Contents
 

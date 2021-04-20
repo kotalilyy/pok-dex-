@@ -8,6 +8,7 @@ const pokeTypeOne = document.querySelector(".poke-type-one");
 const pokeTypeTwo = document.querySelector(".poke-type-two");
 const pokeWeight = document.querySelector(".poke-weight");
 const pokeHeight = document.querySelector(".poke-height");
+const pokeListItems = document.querySelectorAll(".list-item");
 
 // constants and variables
 const TYPES = [
@@ -42,7 +43,7 @@ const resetScreen = () => {
 };
 
 // get data for left side of screen
-fetch("https://pokeapi.co/api/v2/pokemon/4")
+fetch("https://pokeapi.co/api/v2/pokemon/1")
   .then((res) => res.json())
   .then((data) => {
     resetScreen();
@@ -69,3 +70,23 @@ fetch("https://pokeapi.co/api/v2/pokemon/4")
   });
 
 // get data for right side of screen
+fetch("https://pokeapi.co/api/v2/pokemon?offset=0&limit=20")
+  .then((res) => res.json())
+  .then((data) => {
+    console.log(data);
+    const { results } = data;
+
+    for (let i = 0; i < pokeListItems.length; i++) {
+      const pokeListItem = pokeListItems[i];
+      const resultData = results[i];
+
+      if (resultData) {
+        const { name, url } = resultData;
+        const urlArray = url.split("/");
+        const id = urlArray[urlArray.length - 2];
+        pokeListItem.textContent = id + "." + capitalize(name);
+      } else {
+        pokeListItem.textContent = "";
+      }
+    }
+  });
