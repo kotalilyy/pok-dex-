@@ -8,6 +8,8 @@
 
 A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
 
+[Click here for the live application!](https://kotalilyy.github.io/pokedex/)
+
 ## Table of Contents
 
   - [Description](#description)
