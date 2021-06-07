@@ -21,18 +21,20 @@ A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
 
 ## Credits
 
-[Tutorial by Justin Kim](https://www.youtube.com/watch?v=wXjSaZb67n8)
+[Tutorial](https://www.youtube.com/watch?v=wXjSaZb67n8) by [Justin Kim](https://gist.github.com/angle943)
 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
-## Contributing 
+## Contributions
 
-Create a pull request to contribute!
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
 
-If you have any questions feel free to email me at kotalilyy@gmail.com
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 
 
