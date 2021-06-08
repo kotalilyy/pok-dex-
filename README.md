@@ -8,7 +8,7 @@
 
 A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
 
-[Click here for the live application!](https://kotalilyy.github.io/pokedex/)
+[live link](https://kotalilyy.github.io/pokedex/)
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
   - [Table of Contents](#table-of-contents)
   - [Credits](#credits)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Credits
