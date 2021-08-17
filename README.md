@@ -1,39 +1,26 @@
 # Pokédex 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
-![screenshot](/images/screenshot.png)
+<img width="432" alt="poke" src="https://user-images.githubusercontent.com/77229281/129644283-6886b69b-fbbb-4d3a-89b1-440b37b694aa.png">
 
 ## Description 
 
-A Pokemon replica called Pokedex using the [PokeAPI](https://pokeapi.co/)
+A Pokemon replica that uses the [PokeAPI](https://pokeapi.co/).
+
+## Live Link 
 
 [live link](https://kotalilyy.github.io/pokedex/)
-
-## Table of Contents
-
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
 
 ## Credits
 
 [Tutorial](https://www.youtube.com/watch?v=wXjSaZb67n8) by [Justin Kim](https://gist.github.com/angle943)
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
 
 ## Contributions
 
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
