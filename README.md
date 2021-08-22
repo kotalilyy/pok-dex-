@@ -12,7 +12,9 @@ A Pokemon replica that uses the [PokeAPI](https://pokeapi.co/).
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=wXjSaZb67n8) by [Justin Kim](https://gist.github.com/angle943)
+Click [here](https://www.youtube.com/watch?v=wXjSaZb67n8) to create this Pokédex.
+
+Shoutout to @[Justin Kim](https://gist.github.com/angle943)
 
 ## Contributions
 
